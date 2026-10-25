@@ -55,4 +55,5 @@ python3 -m unittest discover -s tests
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). The color data keeps its own MIT license from
+Matt DesLauriers: [data/LICENSE-mattdesl.md](data/LICENSE-mattdesl.md).
